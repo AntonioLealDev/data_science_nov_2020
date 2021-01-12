@@ -1,0 +1,2 @@
+CO2 emissions: https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+Temperatures: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
